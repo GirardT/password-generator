@@ -20,7 +20,7 @@ A simple web-based password generator application built with HTML, CSS, and Java
 
 ## Author
 
-[Your Name](https://yourwebsite.com)
+[Girard Tabañag](https://password.tabanag.com)
 
 ## License
 
